@@ -2,7 +2,7 @@
 ## Apostolos Apostolou, Department of Mechanical and Manufacturing Engineering, University of Cyprus
 This repository includes all the ROS2 packages and the Arduino code that I used for my final year thesis.
 
-### Full thesis: https://aa.netcy.com/2025/04/28/final-year-thesis-design-and-development-of-an-indoor-autonomous-mobile-robot-for-payload-transportation/
+### Full thesis: https://drive.google.com/file/d/1iCZDenSKDesv2g20uvaOgOvRQAMbQJCu/view?usp=sharing
 
 ### Videos showing the final results
 - SLAM Algorithm: https://youtu.be/KQH-cM716HY
